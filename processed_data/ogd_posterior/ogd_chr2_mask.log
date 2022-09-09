@@ -1,0 +1,324 @@
+optimum: 
+	type	time	proportion
+	0	10000	0.95
+	1	279.36	0.05
+bootstrap: 0
+	type	time	proportion
+	0	10000	0.95
+	1	424.825	0.05
+bootstrap: 1
+	type	time	proportion
+	0	10000	0.95
+	1	294.653	0.05
+bootstrap: 2
+	type	time	proportion
+	0	10000	0.95
+	1	275.256	0.05
+bootstrap: 3
+	type	time	proportion
+	0	10000	0.95
+	1	312.174	0.05
+bootstrap: 4
+	type	time	proportion
+	0	10000	0.95
+	1	366.733	0.05
+bootstrap: 5
+	type	time	proportion
+	0	10000	0.95
+	1	312.27	0.05
+bootstrap: 6
+	type	time	proportion
+	0	10000	0.95
+	1	326.727	0.05
+bootstrap: 7
+	type	time	proportion
+	0	10000	0.95
+	1	185.889	0.05
+bootstrap: 8
+	type	time	proportion
+	0	10000	0.95
+	1	356.38	0.05
+bootstrap: 9
+	type	time	proportion
+	0	10000	0.95
+	1	276.62	0.05
+bootstrap: 10
+	type	time	proportion
+	0	10000	0.95
+	1	286.408	0.05
+bootstrap: 11
+	type	time	proportion
+	0	10000	0.95
+	1	256.143	0.05
+bootstrap: 12
+	type	time	proportion
+	0	10000	0.95
+	1	280.76	0.05
+bootstrap: 13
+	type	time	proportion
+	0	10000	0.95
+	1	258.282	0.05
+bootstrap: 14
+	type	time	proportion
+	0	10000	0.95
+	1	270.299	0.05
+bootstrap: 15
+	type	time	proportion
+	0	10000	0.95
+	1	303.335	0.05
+bootstrap: 16
+	type	time	proportion
+	0	10000	0.95
+	1	298.775	0.05
+bootstrap: 17
+	type	time	proportion
+	0	10000	0.95
+	1	256.767	0.05
+bootstrap: 18
+	type	time	proportion
+	0	10000	0.95
+	1	325.609	0.05
+bootstrap: 19
+	type	time	proportion
+	0	10000	0.95
+	1	246.547	0.05
+bootstrap: 20
+	type	time	proportion
+	0	10000	0.95
+	1	431.669	0.05
+bootstrap: 21
+	type	time	proportion
+	0	10000	0.95
+	1	412.556	0.05
+bootstrap: 22
+	type	time	proportion
+	0	10000	0.95
+	1	208.096	0.05
+bootstrap: 23
+	type	time	proportion
+	0	10000	0.95
+	1	363.176	0.05
+bootstrap: 24
+	type	time	proportion
+	0	10000	0.95
+	1	188.407	0.05
+bootstrap: 25
+	type	time	proportion
+	0	10000	0.95
+	1	292.417	0.05
+bootstrap: 26
+	type	time	proportion
+	0	10000	0.95
+	1	331.005	0.05
+bootstrap: 27
+	type	time	proportion
+	0	10000	0.95
+	1	252.76	0.05
+bootstrap: 28
+	type	time	proportion
+	0	10000	0.95
+	1	493.776	0.05
+bootstrap: 29
+	type	time	proportion
+	0	10000	0.95
+	1	274.644	0.05
+bootstrap: 30
+	type	time	proportion
+	0	10000	0.95
+	1	299.874	0.05
+bootstrap: 31
+	type	time	proportion
+	0	10000	0.95
+	1	328.35	0.05
+bootstrap: 32
+	type	time	proportion
+	0	10000	0.95
+	1	283.675	0.05
+bootstrap: 33
+	type	time	proportion
+	0	10000	0.95
+	1	244.155	0.05
+bootstrap: 34
+	type	time	proportion
+	0	10000	0.95
+	1	270.551	0.05
+bootstrap: 35
+	type	time	proportion
+	0	10000	0.95
+	1	488.74	0.05
+bootstrap: 36
+	type	time	proportion
+	0	10000	0.95
+	1	234.385	0.05
+bootstrap: 37
+	type	time	proportion
+	0	10000	0.95
+	1	358.111	0.05
+bootstrap: 38
+	type	time	proportion
+	0	10000	0.95
+	1	551.585	0.05
+bootstrap: 39
+	type	time	proportion
+	0	10000	0.95
+	1	335.992	0.05
+bootstrap: 40
+	type	time	proportion
+	0	10000	0.95
+	1	175.45	0.05
+bootstrap: 41
+	type	time	proportion
+	0	10000	0.95
+	1	213.384	0.05
+bootstrap: 42
+	type	time	proportion
+	0	10000	0.95
+	1	262.374	0.05
+bootstrap: 43
+	type	time	proportion
+	0	10000	0.95
+	1	471.609	0.05
+bootstrap: 44
+	type	time	proportion
+	0	10000	0.95
+	1	405.381	0.05
+bootstrap: 45
+	type	time	proportion
+	0	10000	0.95
+	1	286.943	0.05
+bootstrap: 46
+	type	time	proportion
+	0	10000	0.95
+	1	199.191	0.05
+bootstrap: 47
+	type	time	proportion
+	0	10000	0.95
+	1	237.329	0.05
+bootstrap: 48
+	type	time	proportion
+	0	10000	0.95
+	1	381.094	0.05
+bootstrap: 49
+	type	time	proportion
+	0	10000	0.95
+	1	262.277	0.05
+bootstrap: 50
+	type	time	proportion
+	0	10000	0.95
+	1	239.673	0.05
+bootstrap: 51
+	type	time	proportion
+	0	10000	0.95
+	1	369.311	0.05
+bootstrap: 52
+	type	time	proportion
+	0	10000	0.95
+	1	464.687	0.05
+bootstrap: 53
+	type	time	proportion
+	0	10000	0.95
+	1	285.699	0.05
+bootstrap: 54
+	type	time	proportion
+	0	10000	0.95
+	1	405.838	0.05
+bootstrap: 55
+	type	time	proportion
+	0	10000	0.95
+	1	275.491	0.05
+bootstrap: 56
+	type	time	proportion
+	0	10000	0.95
+	1	218.45	0.05
+bootstrap: 57
+	type	time	proportion
+	0	10000	0.95
+	1	221.502	0.05
+bootstrap: 58
+	type	time	proportion
+	0	10000	0.95
+	1	384.915	0.05
+bootstrap: 59
+	type	time	proportion
+	0	10000	0.95
+	1	257.933	0.05
+bootstrap: 60
+	type	time	proportion
+	0	10000	0.95
+	1	357.672	0.05
+bootstrap: 61
+	type	time	proportion
+	0	10000	0.95
+	1	240.82	0.05
+bootstrap: 62
+	type	time	proportion
+	0	10000	0.95
+	1	382.873	0.05
+bootstrap: 63
+	type	time	proportion
+	0	10000	0.95
+	1	407.52	0.05
+bootstrap: 64
+	type	time	proportion
+	0	10000	0.95
+	1	241.259	0.05
+bootstrap: 65
+	type	time	proportion
+	0	10000	0.95
+	1	212.441	0.05
+bootstrap: 66
+	type	time	proportion
+	0	10000	0.95
+	1	555.143	0.05
+bootstrap: 67
+	type	time	proportion
+	0	10000	0.95
+	1	303.617	0.05
+bootstrap: 68
+	type	time	proportion
+	0	10000	0.95
+	1	267.313	0.05
+bootstrap: 69
+	type	time	proportion
+	0	10000	0.95
+	1	393.364	0.05
+bootstrap: 70
+	type	time	proportion
+	0	10000	0.95
+	1	267.469	0.05
+bootstrap: 71
+	type	time	proportion
+	0	10000	0.95
+	1	241.259	0.05
+bootstrap: 72
+	type	time	proportion
+	0	10000	0.95
+	1	282.22	0.05
+bootstrap: 73
+	type	time	proportion
+	0	10000	0.95
+	1	265.33	0.05
+bootstrap: 74
+	type	time	proportion
+	0	10000	0.95
+	1	301.07	0.05
+bootstrap: 75
+	type	time	proportion
+	0	10000	0.95
+	1	342.049	0.05
+bootstrap: 76
+	type	time	proportion
+	0	10000	0.95
+	1	262.59	0.05
+bootstrap: 77
+	type	time	proportion
+	0	10000	0.95
+	1	313.466	0.05
+bootstrap: 78
+	type	time	proportion
+	0	10000	0.95
+	1	403.387	0.05
+bootstrap: 79
+	type	time	proportion
+	0	10000	0.95
+	1	305.474	0.05

@@ -1,0 +1,4 @@
+optimum: 
+	type	time	proportion
+	0	10000	0.91
+	1	168.313	0.09
